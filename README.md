@@ -30,13 +30,21 @@ Multímetro digital: Un multímetro digital es una herramienta que sirve para me
 
 I. Escoger la fuente de energia de 15v.
 
+![image](https://user-images.githubusercontent.com/85137398/127922341-c70d65ca-850f-4cb6-a4b4-67edeaf820f0.png)
+
 II. Escoger correctamente los resistores con su codificación de colores.
+
+![image](https://user-images.githubusercontent.com/85137398/127924948-b497ccef-796d-4311-8b23-2c19930a0d83.png)
 
 III. Conectar el circuito en base al diagrama de conexión.
 
 - Diagrama esquemático
 
+![image](https://user-images.githubusercontent.com/85137398/127924370-721421d0-9129-4e04-9261-26b18a5cfb9c.png)
+
 - Conexión del circuito
+
+![image](https://user-images.githubusercontent.com/85137398/127924317-d395133d-93da-40c9-84c6-5225ffc6b380.png)
 
 4. RESPUESTAS A INTERROGANTES Y CÁLCULO DEL ERROR
 
