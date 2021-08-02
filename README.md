@@ -28,7 +28,7 @@ Multímetro digital: Un multímetro digital es una herramienta que sirve para me
 
 - Armado del circuito
 
-I. Escoger las fuentes de energia de 12v y 2v respectivamente.
+I. Escoger la fuente de energia de 15v.
 
 II. Escoger correctamente los resistores con su codificación de colores.
 
