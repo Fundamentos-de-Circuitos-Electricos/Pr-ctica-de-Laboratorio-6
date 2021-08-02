@@ -10,6 +10,10 @@
 
 2. MARCO TEÓRICO 
 
+![Diagrama en blanco (10)](https://user-images.githubusercontent.com/85137398/127933005-eb451215-1a2b-4032-b756-3a1d92aeeefe.png)
+
+![Diagrama en blanco (11)](https://user-images.githubusercontent.com/85137398/127933017-dc883df5-ca9e-4b1e-a39e-08bb2beea2f0.png)
+
 3. EXPLICACIÓN DEL PROCESO
 
 - Material y equipo requerido
