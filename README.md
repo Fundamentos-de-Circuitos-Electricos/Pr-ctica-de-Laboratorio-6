@@ -82,9 +82,13 @@ El teorema de transferencia de potencia máxima se usa para encontrar la resiste
 
 5. VIDEO
 
+https://youtu.be/co8Y1IdnwfA
+
 6. CONCLUSIONES
 
-* El teorea de transferencia de potencia máxima, se deriva del teorema de Thevenin y el de Norton y un poco de cálculo elemental, ademas de que la potencia maxima se da cuando la carga toma de resistencia de igual a la resistencia de Thevenin o Norton
+* El teorea de transferencia de potencia máxima, se deriva del teorema de Thevenin y el de Norton y bases de cálculo elemental, ademas de que la potencia maxima se da cuando la carga toma de resistencia de igual a la resistencia de Thevenin o Norton.
+
+* La máxima transferencia de potencia, la fuente y la resistencia de carga se combinan, y con esto, la eficiencia se convierte en 50% con el flujo de potencia máxima de la fuente a la carga.
 
 7. BIBLIOGRAFÍA
 
