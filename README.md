@@ -64,6 +64,69 @@ III. Conectar el circuito en base al diagrama de conexión.
 
 * Calcule las potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1.
 
+Cálculos
+
+R = 220 Ω
+
+I_T=  V_T/R_eq =  (15 V)/(1420 Ω)= 10.56 mA
+
+P= I^2⋅R=(10.56⋅〖10〗^(-3) )^2 (220)=0.024 W
+
+R = 470 Ω
+
+I_T=  V_T/R_eq =  (15 V)/(1670 Ω)= 8.98 mA
+
+P= I^2⋅R=(8.98⋅〖10〗^(-3) )^2 (470)=0.024 W
+
+R = 680 Ω
+
+I_T=  V_T/R_eq =  (15 V)/(1880 Ω)= 7.98 mA
+
+P= I^2⋅R=(7.98⋅〖10〗^(-3) )^2 (680)=0.024 W
+
+R = 820 Ω
+
+I_T=  V_T/R_eq =  (15 V)/(2020 Ω)= 7.42 mA
+
+P= I^2⋅R=(7.42⋅〖10〗^(-3) )^2 (820)=0.045 W
+
+R = 1000 Ω
+
+I_T=  V_T/R_eq =  (15 V)/(2200 Ω)= 6.81 mA
+
+P= I^2⋅R=(6.81⋅〖10〗^(-3) )^2 (1000)=0.04637 W
+
+R = 1500 Ω
+
+I_T=  V_T/R_eq =  (15 V)/(2700 Ω)= 5.55 mA
+
+P= I^2⋅R=(5.55⋅〖10〗^(-3) )^2 (1500)=0.04629 W
+
+
+R = 1800 Ω
+
+I_T=  V_T/R_eq =  (15 V)/(3000 Ω)= 5 mA
+
+P= I^2⋅R=(5⋅〖10〗^(-3) )^2 (1800)=0.045 W
+
+R = 2200 Ω
+
+I_T=  V_T/R_eq =  (15 V)/(3400 Ω)= 4.41 mA
+
+P= I^2⋅R=(4.41⋅〖10〗^(-3) )^2 (2200)=0.0428 W
+
+R = 3900 Ω
+I_T=  V_T/R_eq =  (15 V)/(5100 Ω)= 2.94 mA
+
+P= I^2⋅R=(2.94⋅〖10〗^(-3) )^2 (3900)=0.033 W
+
+R = 4700 Ω
+
+I_T=  V_T/R_eq =  (15 V)/(5900 Ω)= 2.54 mA
+
+P= I^2⋅R=(2.54⋅〖10〗^(-3) )^2 (4700)=0.030 W
+
+
 * Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
 ![image](https://user-images.githubusercontent.com/84390820/127960761-af179d45-aa67-4041-81e1-b27bc68f5d17.png)
