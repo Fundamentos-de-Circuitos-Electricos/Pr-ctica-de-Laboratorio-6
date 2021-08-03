@@ -6,11 +6,15 @@
 
 *General*
 
-- Aplicar el teorema de máxima transferencia de potencia en un circuito electrico para poder tranferir aquella potencia que sera igual al valor ohmico igual a la resistencia de la fuente presente en el circuito. 
+- Aplicar el teorema de máxima transferencia de potencia en un circuito electrico para poder tranferir aquella potencia que sera igual al valor ohmico de la resistencia de la fuente presente en el circuito. 
 
 *Especificos*
 
-- 
+-	Identificar bien como es la aplicación del teorema de máxima transferencia de potencia en circuitos eléctricos.
+
+-	Reforzar el teorema de Thevenin, el cual nos facilitara los cálculos de la máxima transferencia de potencia.
+
+-	Analizar el circuito planteado de forma analítica con los cálculos algebraicos y de forma experimental como el simulador para hacer que se cumpla el teorema de máxima transferencia de potencia.
 
 2. MARCO TEÓRICO 
 
@@ -61,3 +65,12 @@ III. Conectar el circuito en base al diagrama de conexión.
 6. CONCLUSIONES
 
 7. BIBLIOGRAFÍA
+
+- Electronica Lugo. (23 de 01 de 2021). TEOREMA MÁXIMO DE TRANSFERENCIA DE ENERGÍA. Obtenido de TEOREMA MÁXIMO DE TRANSFERENCIA DE ENERGÍA: https://electronicalugo.com/teorema-maximo-de-transferencia-de-energia/
+
+- La fisica y quimica. (14 de 03 de 2019). Circuitos. Obtenido de Teorema de transferencia de potencia máxima: https://lafisicayquimica.com/teorema-de-transferencia-de-potencia-maxima/
+
+- Wikipedia. (12 de 12 de 2020). Teorema de máxima potencia. Obtenido de Teorema de máxima potencia: https://es.wikipedia.org/wiki/Teorema_de_m%C3%A1xima_potencia
+
+
+
