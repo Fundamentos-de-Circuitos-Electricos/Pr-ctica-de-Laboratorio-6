@@ -6,7 +6,11 @@
 
 *General*
 
+- Aplicar el teorema de máxima transferencia de potencia en un circuito electrico para poder tranferir aquella potencia que sera igual al valor ohmico igual a la resistencia de la fuente presente en el circuito. 
+
 *Especificos*
+
+- 
 
 2. MARCO TEÓRICO 
 
