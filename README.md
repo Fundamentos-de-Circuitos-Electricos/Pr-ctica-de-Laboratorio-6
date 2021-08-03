@@ -60,9 +60,31 @@ III. Conectar el circuito en base al diagrama de conexión.
 
 4. RESPUESTAS A INTERROGANTES Y CÁLCULO DEL ERROR
 
+* Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1. Anote los resultados medidos.
+
+* Calcule las potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1.
+
+* Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
+
+![image](https://user-images.githubusercontent.com/84390820/127960761-af179d45-aa67-4041-81e1-b27bc68f5d17.png)
+
+* ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
+
+El teorema de transferencia de potencia máxima se usa para encontrar la resistencia de carga para lo cual habría la máxima cantidad de transferencia de energía desde la fuente a la carga. Por lo que en el análisis se cumple el teorema en verificar la máxima transferencia de potencia comparando la tabla de datos del circuito.
+
+* ¿Cuál fue la potencia máxima en RL? 
+ 
+0.047 Watts
+
+* ¿Para qué valor de RL se obtiene la MTP?
+
+1000 Ω
+
 5. VIDEO
 
 6. CONCLUSIONES
+
+* El teorea de transferencia de potencia máxima, se deriva del teorema de Thevenin y el de Norton y un poco de cálculo elemental, ademas de que la potencia maxima se da cuando la carga toma de resistencia de igual a la resistencia de Thevenin o Norton
 
 7. BIBLIOGRAFÍA
 
